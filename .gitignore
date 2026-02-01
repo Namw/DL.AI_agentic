@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env/
+# Local / sensitive
+.env
+products.db
+store_db.json
+.DS_Store
+.idea/
+uv.lock
