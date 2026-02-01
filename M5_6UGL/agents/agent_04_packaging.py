@@ -59,7 +59,7 @@ def packaging_agent(trend_summary: str, image_url: str, quote: str, justificatio
 {styled_image_html}
 
 ## ✍️ 活动短句
-{quote.strip()}
+{quote.strip()}d
 
 ## ✅ 原因说明
 {justification.strip()}
