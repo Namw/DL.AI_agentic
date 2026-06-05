@@ -1,0 +1,14 @@
+# 阿里云百炼 / DashScope
+DASHSCOPE_API_KEY=
+# DeepSeek官方平台
+DEEPSEEK_API_KEY=
+# 智谱AI (GLM)
+ZHIPUAI_API_KEY=
+# 火山引擎方舟 (Volcano Ark)
+ARK_API_KEY=
+
+
+# Tavily 搜索
+TAVILY_API_KEY=
+# 问Google提供的大量API服务
+# GOOGLE_API_KEY=
